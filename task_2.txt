@@ -1,30 +1,33 @@
-([^A-Za-z_\.0-9](o|O)[^: ,]+@.+\.com)
-29
-	Line 5389: To: outlook.team@enron.com
+([^A-Za-z_\.0-9\n](o|O)[^: ,/]+@[^ ,/]+\.)
+
+31
+ 	Line 5389: To: outlook.team@enron.com
 	Line 10714: To: outlook.team@enron.com
 	Line 11588:  Outlook.2000@enron.com
 	Line 13944: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
 	Line 19966: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
-	Line 30120: in the subject line, or send a blank e-mail to
 	Line 30125: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 35985: Sender: owner-strawbale@crest.org
+	Line 36034: From: owner-strawbale@crest.org
+	Line 36039: X-From: owner-strawbale@crest.org
+	Line 36058: Sender: owner-strawbale@crest.org
 	Line 38059: To: outlook.team@enron.com
 	Line 39076:  Outlook.2000@enron.com
 	Line 41888: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
 	Line 48007: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
 	Line 52642: From: outlook-migration-team@enron.com
 	Line 52658: From: outlook-migration-team@enron.com
-	Line 54434: you prefer not to receive emails of this nature please send an email to rem=
 	Line 59235: From: online.service@schwab.com
 	Line 59241: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
 	Line 64788: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
 	Line 68985: From: open2win.0ll1.net@mailman.enron.com
 	Line 68991: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
-	Line 70083: cc:	Tim O'Rourke/Enron@EnronXGate, Yevgeny Frolov/Enron@EnronXGate, monica.l.brown@accenture.com@ENRON, donald.l.barnhart@accenture.com@ENRON, Phillip K Allen/Enron@EnronXGate 
 	Line 73075: From: oportunity@cells4free.com
 	Line 73081: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
-	Line 81784: in the subject line, or send a blank e-mail to
 	Line 81789: blank e-mail to on-yild@zdemail.zdlists.com
+	Line 85074: From: owner-strawbale@crest.org
+	Line 85079: X-From: owner-strawbale@crest.org
+	Line 85098: Sender: owner-strawbale@crest.org
 	Line 86077: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+	Line 90632: Sender: owner-strawbale@crest.org
 	Line 90939: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
-	Line 93008:  Outlook.2000@enron.com
-	Line 100435: cc:	Tim O'Rourke/Enron@EnronXGate, Yevgeny Frolov/Enron@EnronXGate, mery.l.brown@accenture.com, laura.a.de.la.torre@accenture.com, donald.l.barnhart@accenture.com
